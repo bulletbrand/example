@@ -1,0 +1,27 @@
+.forgot__item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.login__form {
+    padding: 60px 0;
+    margin: 0 auto;
+    min-width: 700px;
+}
+
+
+@media (max-width: 718px) {
+    .login__form {
+        min-width: 0;
+        max-width: 700px;
+    }
+}
+
+.login__form-button {
+    width: 100%;
+    height: 40px;
+}
+
+.custom__input {
+    height: 32px;
+}

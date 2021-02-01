@@ -1,0 +1,18 @@
+.header__menu {
+    position: relative;
+    margin-left: 150px;
+}
+
+.header {
+    position: relative;
+}
+
+.header__menu .item {
+    margin-left: 1px;
+}
+
+.header .btn {
+    background: black;
+    position: absolute;
+    top:25%;
+}
